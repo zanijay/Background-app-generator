@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/zanijay/Background-app-generator/issues"
   },
-  "homepage": "https://github.com/zanijay/Background-app-generator#readme"
+  "homepage": "https://github.com/zanijay/Background-app-generator#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
